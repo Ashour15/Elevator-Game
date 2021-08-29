@@ -14,6 +14,7 @@ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 ```
 g++ main.cpp -o firstOpenGlApp -lglut -lGLU -lGL
+./firstOpenGlApp
 ```
 
 ## Built With
